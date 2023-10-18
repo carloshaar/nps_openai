@@ -12,7 +12,7 @@ Para o projeto resolvi realizar uma análise de uma pesquisa NPS, realizada com 
 
 A primeira avaliação foi realizada sobre o resultado das notas em si, com base nos parâmetros NPS realmente, onde nota até 6 indica um detrator, 7 e 8, são neutros e 9 e 10, promotores.
 
-Para quem tem dúvidas ou desconhece a ferramenta do NPS, segue um link de um material interessante e bem completo. Pesquisa NPS
+Para quem tem dúvidas ou desconhece a ferramenta do NPS, segue um link de um material interessante e bem completo. https://fia.com.br/blog/net-promoter-score-nps/
 
 Após essa primeira parte vou utilizar o Chat GPT para que avalie os comentários e forneça insights sobre seus conteúdos, classficando em positivos e negativos.
 
