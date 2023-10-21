@@ -1,4 +1,9 @@
-[![author](https://img.shields.io/badge/author-CarlosHaar-green.svg)](https://www.linkedin.com/in/carloshaar/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg?style=flat)](https://github.com/carloshaar/portfolio/issues)
+[![author](https://img.shields.io/badge/author-CarlosHaar-green.svg)](https://www.linkedin.com/in/carloshaar/) 
+[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-yellow.svg?style=flat)](https://github.com/carloshaar/portfolio/issues)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
 
 <p align="center">
   <img src="banner_new.png" alt="Designed by Freepik">
